@@ -1,0 +1,10 @@
+/admin -> you Can go to Admin Panel.Id or Password is Admin.
+Step-1
+    First go to admin panel to add some data like Your Restorent Name , Contact no, Email , Gst_No etc.
+Step-2
+    You go in admin panel and Add Category , Add Menu of Your Restorent , Add Your Restorent Info int the Admin Panel.
+Step-3
+    Now You are ready to Create A Bills of Your Restorent.
+
+Note
+Database Name:bill_system
